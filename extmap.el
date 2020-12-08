@@ -7,7 +7,7 @@
 ;; Version:    1.1.1
 ;; Keywords:   lisp
 ;; Homepage:   https://github.com/doublep/extmap
-;; Package-Requires: ((emacs "24.1"))
+;; Package-Requires: ((emacs "24.1") (dash "2.17"))
 
 ;; This program is free software; you can redistribute it and/or
 ;; modify it under the terms of the GNU General Public License as
@@ -60,6 +60,7 @@
 ;;; Code:
 
 (require 'bindat)
+(require 'dash)
 
 
 (defconst extmap--header-bindat-spec '((magic     u16)
