@@ -1,5 +1,5 @@
 [![License: GPL 3](https://img.shields.io/badge/license-GPL_3-green.svg)](http://www.gnu.org/licenses/gpl-3.0.txt)
-[![CI](https://github.com/twlz0ne/extmap/workflows/CI/badge.svg)](https://github.com/twlz0ne/extmap/actions?query=workflow%3ACI)
+[![CI](https://github.com/twlz0ne/extmap-on-mac/workflows/CI/badge.svg)](https://github.com/twlz0ne/extmap-on-mac/actions?query=workflow%3ACI)
 
 
 # extmap
